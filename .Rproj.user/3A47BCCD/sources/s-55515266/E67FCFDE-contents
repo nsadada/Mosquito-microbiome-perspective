@@ -1,0 +1,7 @@
+install.packages("sessioninfo")
+library(sessioninfo)
+session_info()
+session_info("sessioninfo")
+
+write.csv(Dada_et_al_2020_Table_1, "Table_1.csv")
+write.csv(Metadata_template, "Metadata_template.csv")
