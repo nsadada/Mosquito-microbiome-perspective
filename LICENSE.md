@@ -1,4 +1,4 @@
-# © 2020 Authors. under the terms of [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)  Attribution-NonCommercial-ShareAlike 4.0 International  
+# © 2020 The Authors. under the terms of [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)  Attribution-NonCommercial-ShareAlike 4.0 International  
 
 # Summary of the [license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), you are free to:  
 
