@@ -14,7 +14,7 @@ This code should reproduce Figure 1 in:
 __Dada N, Jupatanakul N, Minard G, Short SM, Akorli J, and Villegas LM (2020). Considerations for mosquito microbiome research from the Mosquito Microbiome Consortium. *Preprint.*__
 
 
-## Source
+## Code source
 
 This code is adapted from Daniel S. Quintana's code for visualizing research trends. Original code can be found [here](https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e).
 
