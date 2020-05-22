@@ -1,7 +1,7 @@
 ## Code for visualizing trends in mosquito microbiome research per Europe PMC archive
 ## Adapted from Daniel S. Quintana: https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e
 
-## Install 
+## Install required packages
 
 install.packages("tidyverse")
 install.packages("europepmc")
