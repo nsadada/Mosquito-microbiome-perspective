@@ -6,4 +6,7 @@ The following accompanying files are included to allow for reproducibility:
   a. Code for reproducing Fig 1 in the manuscript, visualization of mosquito microbiome research trends  
   b. Metadata template decribed in section 2 of the paper  
   
+## You can run the script and explore the metadata template locally  
+To do this in RStudio, download this repository as a zipped file. The program and package versions used are noted in the ```sessioninfo.txt``` file.
+  
 Cite as: __Dada N, Jupatanakul N, Minard G, Short SM, Akorli J, and Villegas LM (2020). Considerations for mosquito microbiome research from the Mosquito Microbiome Consortium. *Preprint.*__
