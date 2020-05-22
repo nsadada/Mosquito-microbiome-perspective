@@ -14,10 +14,6 @@ This code should reproduce Figure 1 in:
 __Dada N, Jupatanakul N, Minard G, Short SM, Akorli J, and Villegas LM (2020). Considerations for mosquito microbiome research from the Mosquito Microbiome Consortium. *Preprint.*__
 
 
-## Code source
-
-This code is adapted from Daniel S. Quintana's code for visualizing research trends. Original code can be found [here](https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e).
-
 
 ## Install packages
 
@@ -53,3 +49,7 @@ Mosquito_microbiome_research_trend %>%
       labs(x = "Year", y = "Number of Europe PMC articles") +
       ggtitle("Interest in mosquito microbiome research over the past two decades")
 ```
+
+## Acknowledgements
+
+This code was adapted from Daniel S. Quintana's code for visualizing research trends. Original code can be found [here](https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e).
