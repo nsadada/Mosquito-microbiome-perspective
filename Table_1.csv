@@ -1,0 +1,36 @@
+Metadata fields,Description,Example
+Data name,Name of the sequencing dataset,
+Study type,Specify the type of microbiome study performed," Field, semi-field, laboratory"
+Sample name,Sample name as described in deposited dataset and publication,
+Sample ID,Sample identification number as described in deposited dataset and publication ,
+Number per sample,Number of individuals per sample (indicate 1 if samples were not pooled),
+Collection date,Date of sample collection,(i) YYYY (ii) YYYY-MM (iii) YYYY-MM-DD
+Collection time,Time of sample collection in 24-hour time format,(i) hh (ii) hh:mm (iii) hh:mm:ss
+Collection method,Mosquito collection method,"Human landing catch, mouth aspirator, Prokopack aspirator, gravid trap, larval netting/dipping/aspirating"
+Collection bait,"Where applicable, record type of bait used ","CO2, Cattle"
+Sample storage preservative,Type of preservative used to store sample post collection,"None, Ethanol, RNALater® "
+Sample storage temperature,,"-20 °C, -80 °C"
+Sample storage duration,Storage duration from time of sample collection to time of processing for sequencing,"None, 6 months, 3 years"
+Collection country,Country where sample was collected,
+Collection village or city,Village or city where sample was collected,
+Location coordinates,"Collection location GPS coordinates. Latitude and longitude GPS coordinates in decimal degrees (DD), degrees, minutes, seconds (DMS) or degrees and decimal minutes (DMM) format. Also indicate the geodetic system.",DD = 00.000000 
+,,DMM = 00 00.0000
+,,"DMS = 00°00'00.0""N 0°00'00.0""E."
+Sampling site characteristics,"Larval breeding sites: pH, total dissolved solids, and salinity ","27 °C, 82% RH"
+,Adult collection sites: humidity,See Loveland et al. (2000) for land cover characteristics
+,"Both larval breeding and adult collection sites: temperature, surrounding land cover and vegetation, proximity to human dwellings",
+Sample taxonomy,Record the mosquito species,Anopheles albimanus
+Strain,"Laboratory or field collected. If laboratory, specify name of strain","Field-collected, STECLA, KISUMU"
+Developmental stage,Sample developmental stage,"Larval instar, pupa, adults, etc."
+Generation,Where applicable,"Unkown, F1, F6, etc."
+Sex,Indicate sample sex. Also indicate if both sexes are pooled,"Male, female, pooled"
+Age,Specify if known,3 days post eclosion
+Mating status,"Where applicable, specify if known","Virgin, mated, unknown"
+Gonotrophic status,"Where applicable, specify if known","Non gravid, gravid, half-gravid"
+Blood fed,Specify if sample(s) is visibly blood fed,"non blood-fed, blood-fed"
+Sugar fed,"Where applicable, specify if known","non sugar-fed, sugar-fed"
+Additional sample information,List other measured/observed sample characteristics that are relevant to the research questions. ,"virus/parasite infection status, insecticide resistance status, etc."
+Tissue processed,Whole insect or specific tissues,"Whole mosquito, Midgut, Ovaries, Cuticle surface, etc."
+Biomolecule processed,,"DNA, RNA, protein, metabolites, etc."
+Downstream processing,Each downstream processing step from biomolecule extraction to sequencing should be recorded. Specify the name of in-house or commercial methods used,"QIAGEN extraction, 16S rRNA PCR, MiSeq platform, etc."
+Description,"A general description of the goals of the study, experimental design, and any other study-specific information. ",
