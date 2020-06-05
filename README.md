@@ -3,7 +3,7 @@
 To streamline methods in mosquito microbiome research, optimize data quality, reproducibility, and comparability, as well as facilitate data curation in a centralized location, we are establishing the [Mosquito Microbiome Consortium](http://www.mosquito-microbiome.org/), a collaborative initiative for the advancement of mosquito microbiome research. Our overall goal is to collectively work on unravelling the role of the mosquito microbiome in mosquito biology, while critically evaluating its potential for mosquito borne disease control. This initial perspective serves to introduce the consortium and invite broader participation. It highlights the issues we view as most pressing to the community and proposes guidelines for conducting mosquito microbiome research. In this repository, we provide accompanying files and script for the [manuscript](www.example.org).  
 
 The following accompanying files are included to allow for reproducibility:  
-  a. Code for reproducing Fig 1 in the manuscript, visualization of mosquito microbiome research trends  
+  a. Code for reproducing Fig 1: visualization of mosquito microbiome research trends  
   b. Metadata template decribed in section 2 of the paper  
   
 ## You can run the script and explore the metadata template locally  
