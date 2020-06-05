@@ -1,8 +1,8 @@
-"","Data name","Study type","Sample name","Sample ID","Number per sample","Collection date","Collection time","Collection method","Collection bait","Sample storage preservative","Sample storage temperature","Sample storage duration","Collection country","Collection village","Location coordinates","Temperature","Humidity","Sample taxonomy","Strain","Developmental stage","Sex","Age","Mating status","Gonotrophic status","Blood fed","Sugar fed","Generation","Additional sample information","Tissue processed","Biomolecule processed","Downstream processing","Description"
-"1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
-"7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+,Data name,Study type,Sample name,Sample ID,Number per sample,Collection date,Collection time,Collection method,Collection bait,Sample storage preservative,Sample storage temperature,Sample storage duration,Collection country,Collection village,Location coordinates,Site Temperature,Site Humidity,Site pH,Site TDS,Land cover,Surrounding Vegetation,Sample taxonomy,Strain,Developmental stage,Sex,Age,Mating status,Gonotrophic status,Blood fed,Sugar fed,Generation,Additional sample information,Tissue processed,Biomolecule processed,Downstream processing,Description
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
